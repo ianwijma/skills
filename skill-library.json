@@ -1,14 +1,4 @@
 {
   "version": 1,
-  "skills": {
-    "repo://github.com/typesafe-ai/skills/typesafe-ai": {
-      "name": "typesafe-ai",
-      "source": "https://github.com/typesafe-ai/skills.git",
-      "ref": null,
-      "path": "skills/typesafe-ai",
-      "commit": "302eea662c54bca6730873fe245bec1d69ebc23d",
-      "hash": "sha256-e87d9882708f283b6aedcc103b0767c9f3fe9b022e7783b2132ce676f6bd7ce6",
-      "agents": "all"
-    }
-  }
+  "skills": {}
 }
