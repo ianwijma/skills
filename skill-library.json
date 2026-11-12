@@ -1,4 +1,86 @@
 {
   "version": 1,
-  "skills": {}
+  "skills": {
+    "repo://github.com/t3dotgg/tstack/babysit-pr": {
+      "name": "babysit-pr",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/babysit-pr",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-c103e24f8b01f2354417dabbf421b50f43758be3a71ec165e0ad2f2c3458f7f0",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/council": {
+      "name": "council",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/council",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-a8d894875e7688a6f3782985eedaaec84ee2014dd3ef851949bded884dbb7b1a",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/file-pr": {
+      "name": "file-pr",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/file-pr",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-2be70552bec854f633da707a423c8e0e4593732f3454dbef1cb0ffb1a3dfd9c1",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/full-send": {
+      "name": "full-send",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/full-send",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-aabecaaa248c8719786b6c771744704450de29c11ad9f53242f2ca598c6f74b7",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/full-stop": {
+      "name": "full-stop",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/full-stop",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-d3d5bbbffbeea2b96eb5d471b0fee90dc81fcda572726c3b9621447d759b7881",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/leaving-pr-comments": {
+      "name": "leaving-pr-comments",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/leaving-pr-comments",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-f945b6821345934a0d328f66d5a5f611f4eb41971f5ba07ed2da99683cf8bafa",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/modernize": {
+      "name": "modernize",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/modernize",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-e32b72e5ea7ce089f5cbbc1738dcf811c240a353daf761928df5058cdbf3041a",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/sol-loop": {
+      "name": "sol-loop",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/sol-loop",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-5a25de04f91c350809bc97f0817dd44f47c9730316398f13f3d4da9528becce9",
+      "agents": "all"
+    },
+    "repo://github.com/t3dotgg/tstack/takeover": {
+      "name": "takeover",
+      "source": "https://github.com/t3dotgg/tstack.git",
+      "ref": null,
+      "path": "skills/takeover",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "hash": "sha256-5736e413a2696cdf04edda7f73dfc8a1526640892cb42a2735bcb025803226d3",
+      "agents": "all"
+    }
+  }
 }
