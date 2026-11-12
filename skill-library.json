@@ -19,15 +19,6 @@
       "hash": "sha256-a8d894875e7688a6f3782985eedaaec84ee2014dd3ef851949bded884dbb7b1a",
       "agents": "all"
     },
-    "repo://github.com/t3dotgg/tstack/file-pr": {
-      "name": "file-pr",
-      "source": "https://github.com/t3dotgg/tstack.git",
-      "ref": null,
-      "path": "skills/file-pr",
-      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
-      "hash": "sha256-2be70552bec854f633da707a423c8e0e4593732f3454dbef1cb0ffb1a3dfd9c1",
-      "agents": "all"
-    },
     "repo://github.com/t3dotgg/tstack/full-send": {
       "name": "full-send",
       "source": "https://github.com/t3dotgg/tstack.git",
