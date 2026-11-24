@@ -1,6 +1,102 @@
 {
   "version": 1,
   "entries": {
+    "babysit-pr": {
+      "source": "github.com/t3dotgg/tstack/skills/babysit-pr",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.505856643+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/babysit-pr",
+      "version": "11e37a7",
+      "tree_hash": "7b4e3e4e0f8b53a1fd049d6a27d5f998395ace52",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:fbe43ba3ab76a466a88ef8b46dca1b41fb8101347d24a396903849865173a6ac",
+        "scripts/pr-wait": "sha256:90393f85b95b78bff1b039744bdfb09dc88ff2b430e1c3df687ee6f449c97214"
+      }
+    },
+    "council": {
+      "source": "github.com/t3dotgg/tstack/skills/council",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.51283646+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/council",
+      "version": "11e37a7",
+      "tree_hash": "797e3657df1f2bf919211fce88862dafd3b5eabb",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:91cab56e85ca2ce2920961b50931573890e0513adbc5a60b33969b1e2501251c"
+      }
+    },
+    "file-pr": {
+      "source": "github.com/t3dotgg/tstack/skills/file-pr",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.518517321+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/file-pr",
+      "version": "11e37a7",
+      "tree_hash": "04b5dff2274053132e131912257c82c4d8141dd0",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:174a7ae52e3b9d17f2bd0eaf0a11a89d744d1249164ecbdb0e642359eee75b1b"
+      }
+    },
+    "full-send": {
+      "source": "github.com/t3dotgg/tstack/skills/full-send",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.528065579+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/full-send",
+      "version": "11e37a7",
+      "tree_hash": "de21961fbb3f6892ab4ea1fb2b58e0f95debec87",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:ba585e47cd901506b0e2de13025b0e39bc02462c136cf27491ad3efbdfe66020",
+        "agents/openai.yaml": "sha256:8a1e8ce04a774a8a2e469cecf5e45a9cec4d3438b4c587cf166c2f78206390d2"
+      }
+    },
+    "full-stop": {
+      "source": "github.com/t3dotgg/tstack/skills/full-stop",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.534202389+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/full-stop",
+      "version": "11e37a7",
+      "tree_hash": "16f14dba1ab91a1f7fbcce387b6b96cdd15fc4f5",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:091dcabfcba73e009ddb8e32c498a993a6bb60f8c223d3e21e917f4e52ab9939",
+        "agents/openai.yaml": "sha256:6029e872a883aa06aad3426ab58289df016e4b0d23485719c71152603fec7d35"
+      }
+    },
+    "leaving-pr-comments": {
+      "source": "github.com/t3dotgg/tstack/skills/leaving-pr-comments",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.539404882+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/leaving-pr-comments",
+      "version": "11e37a7",
+      "tree_hash": "3905d758fb70b4e660038456f86ac02343a3dedf",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:1d110343022d0514c101dd942286cce10d6b9f5bd5b899f5a0530620d34cd295",
+        "agents/openai.yaml": "sha256:f89fa0d9ae1c3e973b3e9ecb50549faee62fd1a0e59973bade68802c74183fdb"
+      }
+    },
+    "modernize": {
+      "source": "github.com/t3dotgg/tstack/skills/modernize",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.548270672+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/modernize",
+      "version": "11e37a7",
+      "tree_hash": "149f54a0835d2da770b564eb8624f1e3618a33a7",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:6172d774c46f535367086da90db1b0aaaaac969ed05ff040444f9afa9a6b1552",
+        "agents/openai.yaml": "sha256:6675e91e10f2b264fe1a027072f6d9f46299f781011e248a5ba075fc1f764e09"
+      }
+    },
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
@@ -30,6 +126,32 @@
         "references/targets.md": "sha256:f0b2db33056ee697402b3fbcc172379ab25490751237d0159168a56d6778613f",
         "references/trash.md": "sha256:2c708df8e50b415b51713bddfbdb8ea95620e35ed49110946fcfcd0047c66945",
         "scripts/run.sh": "sha256:e434ebdb7d3ae0b37c00ddc36687bc975da9e766b8cb863f9aed9a624ebbdfa9"
+      }
+    },
+    "sol-loop": {
+      "source": "github.com/t3dotgg/tstack/skills/sol-loop",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.558271899+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/sol-loop",
+      "version": "11e37a7",
+      "tree_hash": "9d2b1c1b00bf54e1b4e6e6243aec6d39037ce624",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:1db1eb4c4a156ee666070e9a12623d520cd1bd9b19c3fc21003fe5a440ba0b10"
+      }
+    },
+    "takeover": {
+      "source": "github.com/t3dotgg/tstack/skills/takeover",
+      "type": "github-subdir",
+      "installed_at": "2026-11-25T00:50:10.565248855+11:00",
+      "repo_url": "https://github.com/t3dotgg/tstack.git",
+      "subdir": "skills/takeover",
+      "version": "11e37a7",
+      "tree_hash": "54cfa8d25b9a356cc826daa964979e8cdce377ad",
+      "commit": "11e37a74d0a6868c121cd0910ab2b3bd9873b92a",
+      "file_hashes": {
+        "SKILL.md": "sha256:9f00a7c67bf82603af2e80f56e9ce63f1516a1b4339365b79cf786d9d9055465"
       }
     }
   }
