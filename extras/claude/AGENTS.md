@@ -6,3 +6,7 @@
 - Whenever you need any input, decision or feedback from me, use the input request modal (AskUserQuestion / request_user_input). Never write the questions as a list in chat.
 - One question per decision. Ask many in a row if needed; 20 modals beats one list.
 - Give every option you think is reasonable, recommended one first. I can type my own answer in the free-text field.
+
+## Global instructions
+- My global AGENTS.md / CLAUDE.md is managed with Skillshare, using its extras feature. Make every change to it there, never by editing ~/.claude/CLAUDE.md, ~/.codex/AGENTS.md or any other synced copy directly.
+- Show me the proposed change first and keep it short.
